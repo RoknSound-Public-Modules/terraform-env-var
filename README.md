@@ -1,2 +1,2 @@
 # terraform-env-var
-Terraform Workspace
+Terraform Module
